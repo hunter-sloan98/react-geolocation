@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-
+//Fetch
 type PropsType = {
   lat: any,
   lng: any,
